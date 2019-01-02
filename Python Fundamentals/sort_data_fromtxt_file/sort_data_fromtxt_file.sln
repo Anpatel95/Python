@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "sort_data_fromtxt_file", "sort_data_fromtxt_file\sort_data_fromtxt_file.pyproj", "{C151BCD5-E36D-4EA3-A19D-BE5AFD1EB173}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C151BCD5-E36D-4EA3-A19D-BE5AFD1EB173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C151BCD5-E36D-4EA3-A19D-BE5AFD1EB173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {790EA435-69F4-41D1-91E3-D5C11E32E821}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "fractal_drawing", "fractal_drawing\fractal_drawing.pyproj", "{96FE950A-5B8E-4C8C-95EA-24C2437306AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96FE950A-5B8E-4C8C-95EA-24C2437306AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96FE950A-5B8E-4C8C-95EA-24C2437306AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54BBA478-1D20-4CC5-943D-1DA578D48A66}
+	EndGlobalSection
+EndGlobal

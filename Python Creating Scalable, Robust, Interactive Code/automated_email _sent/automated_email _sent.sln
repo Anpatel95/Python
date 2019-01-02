@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "automated_email _sent", "automated_email _sent\automated_email _sent.pyproj", "{7D0B1A87-F4BC-4E56-BBE6-47F122BF0EFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D0B1A87-F4BC-4E56-BBE6-47F122BF0EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D0B1A87-F4BC-4E56-BBE6-47F122BF0EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3723448B-6FDA-49ED-B9E0-7483743F2340}
+	EndGlobalSection
+EndGlobal

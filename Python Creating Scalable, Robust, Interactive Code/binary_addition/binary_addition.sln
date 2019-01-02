@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "binary_addition", "binary_addition\binary_addition.pyproj", "{16993938-9476-4AA9-A61B-2A1BE179BA63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16993938-9476-4AA9-A61B-2A1BE179BA63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16993938-9476-4AA9-A61B-2A1BE179BA63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {942AF6E8-410D-4469-9566-205F1FEBEDD8}
+	EndGlobalSection
+EndGlobal

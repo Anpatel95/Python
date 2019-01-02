@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "coins_due", "coins_due\coins_due.pyproj", "{A5247773-37FE-4036-B1EE-57F6787C4CA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5247773-37FE-4036-B1EE-57F6787C4CA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5247773-37FE-4036-B1EE-57F6787C4CA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7479C9C1-BF34-47E5-99DE-2E8AF0A7BAB6}
+	EndGlobalSection
+EndGlobal

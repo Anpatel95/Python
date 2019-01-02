@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "two's complement creator", "two's complement creator\two's complement creator.pyproj", "{65536B60-2FB7-48F6-933D-EC3992F06BAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65536B60-2FB7-48F6-933D-EC3992F06BAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65536B60-2FB7-48F6-933D-EC3992F06BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A69636A3-2710-4C48-A428-6071DFF1D09B}
+	EndGlobalSection
+EndGlobal
